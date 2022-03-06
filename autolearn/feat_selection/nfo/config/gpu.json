@@ -1,0 +1,24 @@
+{
+  "max_order": 4,
+  "random_set_size": 32,
+  "feat_opt_eta": 0.0005,
+  "ep": {
+    "batch_size": 32,
+    "num_epoch": 100,
+    "lr": 0.0005,
+    "weight_decay": 1e-4,
+    "patience": 30
+  },
+  "ed": {
+    "weight_decay": 1e-3,
+    "num_epoch": 200,
+    "lr": 0.0005,
+    "patience": 50
+  },
+  "trade_off": 0.5,
+  "batch_size": 32,
+  "num_epoch": 20,
+  "lr": 0.0005,
+  "weight_decay": 1e-4,
+  "patience": 20
+}

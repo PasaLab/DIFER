@@ -1,0 +1,12 @@
+{
+  "max_order": 4,
+  "random_set_size": 128,
+  "feat_opt_eta": 1e-3,
+  "trade_off": null,
+  "trade_off_epoch": 5,
+  "batch_size": 32,
+  "num_epoch": 400,
+  "lr": 0.0005,
+  "weight_decay": 1e-4,
+  "patience": 50
+}
