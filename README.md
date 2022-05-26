@@ -1,6 +1,10 @@
 # DIFER
 
-Code for **"DIFER: Differentiable Automated Feature Engineering"**
+Code for [**"DIFER: Differentiable Automated Feature Engineering"**](https://openreview.net/forum?id=SrrORxarIgc)
+
+> accepted in 1st Conference on Automated Machine Learning
+
+
 
 ## Requisite
 
